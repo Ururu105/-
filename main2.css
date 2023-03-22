@@ -1,0 +1,11 @@
+.global_style{
+    color: orangered;
+        text-align: center;
+        background-color: rgb(245 245 245);
+        font-size: 70px;
+}
+#h3{
+    color: white;
+    background-color: rgb(41 149 162);
+    text-align: right;
+}
